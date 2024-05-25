@@ -21,3 +21,12 @@
 <div><br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosSenra&hide_progress=true)
+
+### Alguns projetos :
+
+   
+ - Dinâmica de clientes usando clusterização aglomerativa 🙋🏻‍♂️💰 [![Stremlit 1](https://img.shields.io/badge/Streamlit-FF4B4B.svg?style=for-the-badge&logo=Streamlit&logoColor=white)](https://gsqehtappz236rejnc5zwzz.streamlit.app) 💰🙋🏻‍♂️
+
+
+  
+- Análise de Casos e Obitos de Covid-19 🦠🌎 [![Stremlit 1](https://img.shields.io/badge/Streamlit-FF4B4B.svg?style=for-the-badge&logo=Streamlit&logoColor=white)](https://mapacovid-zddiet6qtwyvq7hpzqoiis.streamlit.app)  🌎🦠
