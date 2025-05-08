@@ -16,10 +16,6 @@
     <img aling="center" alt="powerbi" src="https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black">
 <div><br/>
 
-<div style = "display: inline_block"><br/>
-    <img aling="center" alt="Coursera" src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white">
-<div><br/>
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosSenra&hide_progress=true)
 
 ### Alguns projetos :
