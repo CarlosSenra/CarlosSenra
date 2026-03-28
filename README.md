@@ -13,12 +13,3 @@
     <img aling="center" alt="scipy" src="https://img.shields.io/badge/SciPy-8CAAE6.svg?style=for-the-badge&logo=SciPy&logoColor=white">
     <img aling="center" alt="powerbi" src="https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black">
 <div><br/>
-
-### Alguns projetos :
-
-   
- - Dinâmica de clientes usando clusterização aglomerativa 🙋🏻‍♂️💰 [![Stremlit 1](https://img.shields.io/badge/Streamlit-FF4B4B.svg?style=for-the-badge&logo=Streamlit&logoColor=white)](https://gsqehtappz236rejnc5zwzz.streamlit.app) 💰🙋🏻‍♂️
-
-
-  
-- Análise de Casos e Obitos de Covid-19 🦠🌎 [![Stremlit 1](https://img.shields.io/badge/Streamlit-FF4B4B.svg?style=for-the-badge&logo=Streamlit&logoColor=white)](https://mapacovid-zddiet6qtwyvq7hpzqoiis.streamlit.app)  🌎🦠
